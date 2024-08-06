@@ -1,0 +1,23 @@
+# Visual Studio temporary files
+*.obj
+*.pdb
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.log
+*.vscode
+*.vs
+*.sln.docstates
+
+# NuGet packages
+*.nuget
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
