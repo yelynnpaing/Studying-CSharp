@@ -1,0 +1,14 @@
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\bin\Debug\net8.0\constructor.exe
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\bin\Debug\net8.0\constructor.deps.json
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\bin\Debug\net8.0\constructor.runtimeconfig.json
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\bin\Debug\net8.0\constructor.dll
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\bin\Debug\net8.0\constructor.pdb
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.AssemblyInfoInputs.cache
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.AssemblyInfo.cs
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.csproj.CoreCompileInputs.cache
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.dll
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\refint\constructor.dll
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.pdb
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\constructor.genruntimeconfig.cache
+D:\ylp\PGDCA-B32\C#freeCoursesExercises\constructor\obj\Debug\net8.0\ref\constructor.dll
