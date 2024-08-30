@@ -16,6 +16,8 @@ namespace CSharpExercises3
                 if(i % 2 == 0)
                 {
                     result += i;
+
+                    list.Items.Add(i);
                 }
             }
 

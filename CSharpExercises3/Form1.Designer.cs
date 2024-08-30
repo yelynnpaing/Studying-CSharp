@@ -31,11 +31,13 @@
             sumBtn = new Button();
             sumLabel = new Label();
             resultTxt = new TextBox();
+            label1 = new Label();
+            list = new ListBox();
             SuspendLayout();
             // 
             // sumBtn
             // 
-            sumBtn.Location = new Point(296, 190);
+            sumBtn.Location = new Point(289, 364);
             sumBtn.Name = "sumBtn";
             sumBtn.Size = new Size(122, 36);
             sumBtn.TabIndex = 0;
@@ -46,7 +48,7 @@
             // sumLabel
             // 
             sumLabel.AutoSize = true;
-            sumLabel.Location = new Point(152, 72);
+            sumLabel.Location = new Point(61, 286);
             sumLabel.Name = "sumLabel";
             sumLabel.Size = new Size(228, 20);
             sumLabel.TabIndex = 1;
@@ -54,16 +56,35 @@
             // 
             // resultTxt
             // 
-            resultTxt.Location = new Point(409, 65);
+            resultTxt.Location = new Point(337, 279);
             resultTxt.Name = "resultTxt";
             resultTxt.Size = new Size(155, 27);
             resultTxt.TabIndex = 2;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(70, 86);
+            label1.Name = "label1";
+            label1.Size = new Size(177, 20);
+            label1.TabIndex = 3;
+            label1.Text = "even integers 2 to 100  -  \r\n";
+            // 
+            // list
+            // 
+            list.FormattingEnabled = true;
+            list.Location = new Point(337, 76);
+            list.Name = "list";
+            list.Size = new Size(426, 164);
+            list.TabIndex = 4;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(list);
+            Controls.Add(label1);
             Controls.Add(resultTxt);
             Controls.Add(sumLabel);
             Controls.Add(sumBtn);
@@ -78,5 +99,7 @@
         private Button sumBtn;
         private Label sumLabel;
         private TextBox resultTxt;
+        private Label label1;
+        private ListBox list;
     }
 }
