@@ -60,7 +60,7 @@ namespace CSharpCRUD1
             }
             else
             {
-                txtCusID.Text = "C_0000000";
+                txtCusID.Text = "C_0000001";
             }
         }
 

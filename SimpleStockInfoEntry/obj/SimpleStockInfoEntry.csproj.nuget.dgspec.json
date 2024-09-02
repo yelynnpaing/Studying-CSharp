@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ylp\\PGDCA-B32\\C#Exercises\\CSharpCRUD1\\CSharpCRUD1.csproj": {}
+    "D:\\ylp\\PGDCA-B32\\SimpleStockInfoEntry\\SimpleStockInfoEntry.csproj": {}
   },
   "projects": {
-    "D:\\ylp\\PGDCA-B32\\C#Exercises\\CSharpCRUD1\\CSharpCRUD1.csproj": {
+    "D:\\ylp\\PGDCA-B32\\SimpleStockInfoEntry\\SimpleStockInfoEntry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ylp\\PGDCA-B32\\C#Exercises\\CSharpCRUD1\\CSharpCRUD1.csproj",
-        "projectName": "CSharpCRUD1",
-        "projectPath": "D:\\ylp\\PGDCA-B32\\C#Exercises\\CSharpCRUD1\\CSharpCRUD1.csproj",
+        "projectUniqueName": "D:\\ylp\\PGDCA-B32\\SimpleStockInfoEntry\\SimpleStockInfoEntry.csproj",
+        "projectName": "SimpleStockInfoEntry",
+        "projectPath": "D:\\ylp\\PGDCA-B32\\SimpleStockInfoEntry\\SimpleStockInfoEntry.csproj",
         "packagesPath": "C:\\Users\\kk\\.nuget\\packages\\",
-        "outputPath": "D:\\ylp\\PGDCA-B32\\C#Exercises\\CSharpCRUD1\\obj\\",
+        "outputPath": "D:\\ylp\\PGDCA-B32\\SimpleStockInfoEntry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kk\\AppData\\Roaming\\NuGet\\NuGet.Config",
